@@ -1,5 +1,5 @@
 # Introduction
-![results](GUI.png)
+![results](User_Interface.jpg)
 
 Detect breast cancer mass using YOLO darknet and PyQt.
 
